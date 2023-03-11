@@ -5,6 +5,13 @@ class SplashScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      body: Center(
+        child: Hero(
+          child: Image.asset('assets/logo.jpeg'),
+          tag: "Logo Here",
+        ),
+      ),
+    );
   }
 }
