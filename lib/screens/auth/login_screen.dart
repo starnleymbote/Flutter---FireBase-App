@@ -21,8 +21,8 @@ class _LoginScreenState extends State<LoginScreen> {
   @override
   void _setData() {
     setState(() {
-      userEmail = emailController.text;
-      userPassword = passwordController.text;
+      userEmail = emailController.text.trim();
+      userPassword = passwordController.text.trim();
     });
   }
 

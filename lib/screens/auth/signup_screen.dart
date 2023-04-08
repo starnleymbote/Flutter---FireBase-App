@@ -20,8 +20,8 @@ class _SignUpScreenState extends State<SignUpScreen> {
   @override
   void _setData() {
     setState(() {
-      userEmail = emailController.text;
-      userPassword = passwordController.text;
+      userEmail = emailController.text.trim();
+      userPassword = passwordController.text.trim();
     });
   }
 
