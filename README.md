@@ -1,6 +1,11 @@
-# kazilink_mvp_1
+# Login Using Firebase
+This project I tend to use it to learn about using Firebase to 
+authenticate users in Flutter.
 
-This is the kazilinks application using flutter
+All material and resources used are in this folder and the code here might 
+have not been optimised during this session
+
+
 
 ## Getting Started
 
