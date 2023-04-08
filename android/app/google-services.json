@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141107919007",
+    "project_id": "fir-getx-app-d3c69",
+    "storage_bucket": "fir-getx-app-d3c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141107919007:android:8a9efd5160153a42064aaa",
+        "android_client_info": {
+          "package_name": "com.starno.apps.kazilink_mvp_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141107919007-nka7ptqnh1k21k8v5jclidfi8b9ed6ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB21bPLv7G2Nz7qSSEqNnr1znV62xkD5cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141107919007-nka7ptqnh1k21k8v5jclidfi8b9ed6ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
