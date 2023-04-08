@@ -15,6 +15,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     Timer(const Duration(seconds: 1000), () {
+      //Redirecting the user back to the login screen
       Get.to(LoginScreen());
     });
   }
